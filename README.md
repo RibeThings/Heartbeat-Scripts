@@ -1,2 +1,2 @@
-# Heartbeat-Scripts
-These are scripts for the exploit known as "Heartbeat"
+# Heartbeat Scripts
+This is a repository to store every script I made for the exploit known as Heartbeat
